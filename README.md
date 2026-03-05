@@ -1,16 +1,16 @@
-<h1 align="center">✨ Hi, I'm hmo175 ✨</h1>
-<h3 align="center">Software Developer | Passionate Learner | Tech Explorer</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hmo175.hmo175" />
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=hmo175&color=blueviolet&style=flat-square&label=Profile+Views)
-  [![GitHub followers](https://img.shields.io/github/followers/hmo175?style=social&label=Followers)](https://github.com/hmo175)
-  
-</div>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+hmo175....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+<h3 align="center">Software Developer | Passionate Learner | Tech Explorer</h3>
 
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 👨‍💻 About Me
 
@@ -18,7 +18,7 @@
 - 💡 **Interested in**: Coding, Technology, and Problem Solving
 - ⚡ **Fun facts**: I love programming ❤️ and improving my skills every day
 - 🎯 **My goal**: Become a professional developer and contribute to open source
-- 📫 **Let's connect**: [@yourusername](link) | [Discord](link) | [Twitter](link)
+- 💬 **Discord**: **hmo1** (feel free to add me!)
 
 <br>
 <br>
@@ -70,7 +70,7 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=hmo175&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmo175&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -78,32 +78,28 @@
 ### 🐍 Watch the snake eat my contributions!
 
 <p align="center">
-  <img src="https://github.com/hmo175/hmo175/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hmo175/hmo175/raw/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/hmo175/hmo175/raw/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/hmo175/hmo175/raw/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
 
-### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- هذا القسم سيتحدث تلقائياً مع نشاطك الأخير - يمكنك تفعيله لاحقاً -->
-<!--END_SECTION:activity-->
-
----
-
-### 📣 Let's Connect & Collaborate!
+### 📣 Let's Connect!
 
 <p align="center">
+  <a href="https://discord.com/users/hmo1" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-hmo1-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
   <a href="https://github.com/hmo175?tab=followers">
     <img src="https://img.shields.io/github/followers/hmo175?label=Follow%20Me&style=social" />
   </a>
-  <a href="https://github.com/hmo175?tab=repositories">
-    <img src="https://img.shields.io/badge/Check%20Out-My%20Projects-blue?style=flat-square&logo=github" />
-  </a>
 </p>
 
 <p align="center">
-  <b>⭐ If you like my profile, don't forget to follow me and star my repos! ⭐</b>
+  <b>⭐ If you like my profile, don't forget to follow me! ⭐</b>
 </p>
 
 ---
@@ -117,9 +113,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
-<p align="center">
-  Thanks for visiting! ❤️
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!%20❤️&fontSize=24&fontColor=white" />
 </p>
