@@ -1,8 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hmo175.hmo175" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hmo.hmo" />
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+hmo175....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+hmo....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -10,7 +10,7 @@
 
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qj7jg7x9e9g9x9e9g9x9e9g9x9e9g9x9e9g9x9e9g9&rid=giphy.gif&ct=g" />
 
 ### 👨‍💻 About Me
 
@@ -49,12 +49,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmo175&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmo175&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmo&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmo&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmo175&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmo&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -62,7 +62,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hmo175&theme=tokyonight&no-frame=true&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hmo&theme=tokyonight&no-frame=true&row=2&column=4" />
 </p>
 
 ---
@@ -70,7 +70,7 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmo175&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmo&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -78,11 +78,7 @@
 ### 🐍 Watch the snake eat my contributions!
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hmo175/hmo175/raw/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/hmo175/hmo175/raw/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/hmo175/hmo175/raw/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -93,8 +89,14 @@
   <a href="https://discord.com/users/hmo1" target="_blank">
     <img src="https://img.shields.io/badge/Discord-hmo1-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://github.com/hmo175?tab=followers">
-    <img src="https://img.shields.io/github/followers/hmo175?label=Follow%20Me&style=social" />
+  <a href="https://github.com/hmo?tab=followers">
+    <img src="https://img.shields.io/github/followers/hmo?label=Follow%20Me&style=social" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/hmo">
+    <img src="https://img.shields.io/badge/GitHub-hmo-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
