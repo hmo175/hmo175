@@ -90,13 +90,13 @@
     <img src="https://img.shields.io/badge/Discord-hmo1-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://github.com/hmo175?tab=followers">
-    <img src="https://img.shields.io/github/followers/hmo?label=Follow%20Me&style=social" />
+    <img src="https://img.shields.io/github/followers/hmo175?label=Follow%20Me&style=social" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/hmo175">
-    <img src="https://img.shields.io/badge/GitHub-hmo-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-hmo175-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
